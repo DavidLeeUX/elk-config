@@ -1,2 +1,2 @@
 # elk-config
-ELK培训专业
+ELK培训专用
